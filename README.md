@@ -1,8 +1,3 @@
-Thanks for sharing, Mercy! I checked out your `mercy-practice` repo—it’s a **TypeScript-based Node.js project**, and while it’s still in early stages, it’s a great sandbox for testing backend logic and experimenting with structure.
-
-Let’s give it a clean, professional README to reflect your skills and make it easier to build on.
-
----
 
 ### 📝 Refined `README.md` for `mercy-practice`
 
